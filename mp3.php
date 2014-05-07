@@ -1,7 +1,6 @@
 <?php
 /**
  * Created by Scott Fleming
- * Music City Guru
  * MP3 Player using jPlayer and PHP
  */
 
